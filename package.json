@@ -1,0 +1,14 @@
+{
+  "name": "ottoapp",
+  "version": "1.0.0",
+  "description": "OttoApp",
+  "author": "Otto.js Team <help@ottojs.org>",
+  "license": "MIT",
+  "devDependencies": {
+    "create-expo": "3.0.0",
+    "eas-cli": "10.2.1",
+    "expo": "51.0.22",
+    "expo-doctor": "1.8.2"
+  },
+  "private": true
+}
