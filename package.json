@@ -4,6 +4,10 @@
   "description": "OttoApp",
   "author": "Otto.js Team <help@ottojs.org>",
   "license": "MIT",
+  "engines": {
+    "node": ">=20.16.0",
+    "npm": ">=10.8.1"
+  },
   "devDependencies": {
     "create-expo": "3.0.0",
     "eas-cli": "10.2.1",

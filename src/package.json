@@ -11,6 +11,10 @@
     "test": "jest --watchAll",
     "lint": "expo lint"
   },
+  "engines": {
+    "node": ">=20.16.0",
+    "npm": ">=10.8.1"
+  },
   "jest": {
     "preset": "jest-expo"
   },
